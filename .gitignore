@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local lab output and sensitive evidence
+.env
+*.pem
+*.key
+*.p12
+*.pfx
+*.pcap
+*.pcapng
+*.mem
+*.dmp
+*.raw
+*.dd
+*.E01
+evidence-private/
+case-private/
+local-output/
+
+# Exceptions: synthetic/public training evidence may be committed after review.
