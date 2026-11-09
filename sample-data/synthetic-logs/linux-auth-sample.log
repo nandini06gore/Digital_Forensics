@@ -1,0 +1,4 @@
+Jan 12 09:14:02 lab-host sshd[2101]: Accepted publickey for analyst from 192.0.2.10 port 51122 ssh2
+Jan 12 09:18:47 lab-host sshd[2144]: Failed password for invalid user guest from 198.51.100.23 port 52218 ssh2
+Jan 12 09:19:05 lab-host sshd[2150]: Failed password for analyst from 198.51.100.23 port 52224 ssh2
+Jan 12 09:21:33 lab-host sudo: analyst : TTY=pts/0 ; PWD=/home/analyst ; USER=root ; COMMAND=/usr/bin/systemctl status ssh
